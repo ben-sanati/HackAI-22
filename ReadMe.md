@@ -9,8 +9,8 @@ The aim of this hackaton was to develop a machine learning model, which processe
 
 We use an AutoEncoder neural network. An autoencoder takes an input and performs an “encoding” (essentially a generalised PCA) on the input, resulting in a bottleneck of the most important features. A "decoding" is then performed on the bottleneck to reconstruct the input using only the features with largest variance. This reconstructed input can be compared with the original image by taking a mean absolute error between the input and the reconstructed input. This gives us an array of losses for each individual event. The sum of the mean and standard deviation losses represents the value for our threshold used for anomaly detection.
 
-<a href=./img/img2.png><img src="./img/img2.png" /></a>
-![imgtemp](https://user-images.githubusercontent.com/56360395/156952903-ef0ed7c4-65b1-42b7-aa81-84db3c3f71c2.png)
+<a href=./img/autoencoder.png><img src="./img/autoencoder.png" /></a>
+<a href=./img/HistogramDist.png><img src="./img/HistogramDist.png" /></a>
 
 
 You can download our presentation in the files or have a look here:
@@ -18,6 +18,6 @@ https://docs.google.com/presentation/d/1I-U3-zCT2FVroj4rzkMSEnIKHSEPsJTvHFEt0GWE
 
 Finally, here is our team at the hackaton:
 
-![img1edited](https://user-images.githubusercontent.com/56360395/156949945-f965123d-a935-49fe-be01-94db25f680fe.png)
+<a href=./img/Team.png><img src="./img/Team.png" /></a>
 
 From left to right: Benjamin Sanati, Miroslav Milanov and Emil Stoev
