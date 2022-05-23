@@ -16,7 +16,7 @@ This gives us an array of losses for each individual event. The sum of the mean 
 <p align="center"><img src="./img/HistogramDist.png"></p>
 
 
-You can download our presentation in the files or have a look here:
+For a more detailed overview, you can download our presentation in the files or have a look here:
 https://docs.google.com/presentation/d/1I-U3-zCT2FVroj4rzkMSEnIKHSEPsJTvHFEt0GWElgE/edit?usp=sharing
 
 Finally, here is our team at the hackaton:
