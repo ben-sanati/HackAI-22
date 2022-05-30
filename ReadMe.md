@@ -3,10 +3,11 @@
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-V3.7.12-green.svg" align="left" ></a>
 <a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/PyTorch-V1.11.0-green.svg" align="left" ></a>
 <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/cuda-V11.3.0-green.svg" align="left" ></a>
+<br />
 
 Team: Benjamin Sanati, Emil Stoev, Miroslav Milanov
 
-The aim of this hackaton was to develop a machine learning model, which processes data about organized events, airports and online flight query volumes and predict anomalies in the data to find which events lead to a spike in searches of particular flights.
+The aim of this hackathon was to process data about organized events and online flight query volumes to determine the events that lead to a spike in flight requirements, thus informing airlines about when flights should be scheduled.
 
 ***We have been asked to not publish the data and we respect Cirium's request. All references to the dataset have been expunged.***
 
