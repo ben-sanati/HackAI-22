@@ -1,5 +1,8 @@
-# Cirium's HackAI Challenge #
-## Southampton 2022 ##
+# Cirium's HackAI Challenge - 2022#
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-V3.7.12-green.svg" align="left" ></a>
+<a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/PyTorch-V1.11.0-green.svg" align="left" ></a>
+<a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/cuda-V11.3.0-green.svg" align="left" ></a>
 
 Team: Benjamin Sanati, Emil Stoev, Miroslav Milanov
 
