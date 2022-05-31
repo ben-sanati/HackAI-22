@@ -17,7 +17,7 @@ Table of Contents
 
 The aim of this hackathon was to process data about organized events and online flight query volumes to determine the events that lead to a spike in flight requirements, thus informing airlines about when flights should be scheduled.
 
-An overview of our teams solution to the problem is given in the [powerpoint presentation](./HackAI.pptx)
+An overview of our teams solution to the problem is given in the [presentation](./HackAI.pptx), with a slightly more detailed overview given below.
 
 ***We have been asked to not publish the data and we respect Cirium's request. All references to the dataset have been expunged.***
 
@@ -38,6 +38,8 @@ https://docs.google.com/presentation/d/1I-U3-zCT2FVroj4rzkMSEnIKHSEPsJTvHFEt0GWE
 ### Team
 
 Team: Benjamin Sanati, Emil Stoev, Miroslav Milanov
+
+Our team presented our solution to a panel of judges at the hackathon, the majority of which where representatives from Cirium. 
 
 <p align="center"><img src="./img/Team.png"></p>
 
