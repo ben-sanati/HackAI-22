@@ -1,3 +1,11 @@
+Table of Contents
+=================
+
+* [Cirium's HackAI Challenge - 2022#](#ciriums-hackai-challenge---2022)
+   * [Aims](#aims)
+   * [Solution](#solution)
+      * [Team](#team)
+
 # Cirium's HackAI Challenge - 2022#
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-V3.7.12-green.svg" align="left" ></a>
