@@ -6,7 +6,7 @@ Table of Contents
    * [Solution](#solution)
       * [Team](#team)
 
-# Cirium's HackAI Challenge - 2022#
+# Cirium's HackAI Challenge - 2022
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-V3.7.12-green.svg" align="left" ></a>
 <a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/PyTorch-V1.11.0-green.svg" align="left" ></a>
@@ -16,6 +16,8 @@ Table of Contents
 ## Aims
 
 The aim of this hackathon was to process data about organized events and online flight query volumes to determine the events that lead to a spike in flight requirements, thus informing airlines about when flights should be scheduled.
+
+An overview of our teams solution to the problem is given in the [powerpoint presentation](./HackAI.pptx)
 
 ***We have been asked to not publish the data and we respect Cirium's request. All references to the dataset have been expunged.***
 
