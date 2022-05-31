@@ -11,7 +11,7 @@ The aim of this hackathon was to process data about organized events and online 
 
 ***We have been asked to not publish the data and we respect Cirium's request. All references to the dataset have been expunged.***
 
-We use an AutoEncoder neural network. An autoencoder takes an input and performs an “encoding” (essentially a generalised PCA) on the input, resulting in a bottleneck of the most important features. A "decoding" is then performed on the bottleneck to reconstruct the input using only the features with largest variance. This reconstructed input can be compared with the original image by taking a mean absolute error between the input and the reconstructed input. 
+Our process uses an AutoEncoder NN to locate flight query volume anomalies that occur due to particular events. An autoencoder takes an input and performs an “encoding” (essentially a generalised PCA) on the input, resulting in a bottleneck of the most important features. A "decoding" is then performed on the bottleneck to reconstruct the input using only the features with largest variance. This reconstructed input can be compared with the original image by taking a mean absolute error between the input and the reconstructed input. 
 
 <p align="center"><img src="./img/autoencoder.png"></p>
 
