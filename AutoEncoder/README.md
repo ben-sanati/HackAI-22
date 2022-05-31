@@ -6,4 +6,4 @@ The final method was implemented in PyTorch, with the AutoEncoder trained in [au
     model.load_state_dict(torch.load(pthfile_location))
     model.eval()
 ```
-It should be noted that the 'AutoEncoder' class must be instanced in order to use the model as detailed above. 
+It should be noted that the **AutoEncoder** class must be instanced in order to use the model as detailed above. 
