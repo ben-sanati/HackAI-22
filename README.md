@@ -8,9 +8,9 @@ Table of Contents
 
 # Cirium's HackAI Challenge - 2022
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-V3.7.12-green.svg" align="left" ></a>
-<a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/PyTorch-V1.11.0-green.svg" align="left" ></a>
-<a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/cuda-V11.3.0-green.svg" align="left" ></a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &emsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) &emsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 <br />
 
 ## Aims
