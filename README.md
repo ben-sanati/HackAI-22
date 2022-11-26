@@ -16,7 +16,7 @@ Table of Contents
 
 ## Aims
 
-The aim of this hackathon was to process data about organized events and online flight query volumes to determine the events that lead to a spike in flight requirements. This would be used to inform airlines about when flights could be scheduled optimally.
+The aim of this hackathon was to process data about organized events and online flight query volumes to determine the events that led to an increase in flight requirements. This would inform airlines about when flights could be scheduled optimally.
 
 An overview of our teams solution to the problem is given in the [presentation](./HackAI.pptx), with a slightly more detailed overview given below.
 
