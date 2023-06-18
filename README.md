@@ -6,7 +6,7 @@
 Table of Contents
 =================
 
-* [Cirium's HackAI Challenge - 2022#](#ciriums-hackai-challenge---2022)
+* [Cirium's HackAI Challenge - 2022](#ciriums-hackai-challenge---2022)
    * [Aims](#aims)
    * [Solution](#solution)
       * [Team](#team)
